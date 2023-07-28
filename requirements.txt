@@ -1,8 +1,8 @@
 addict==2.4.0
 albumentations==1.3.0
 einops==0.6.0
-git+https://github.com/huggingface/accelerate@78151f8
-git+https://github.com/huggingface/diffusers@fa6d52d
+git+https://github.com/huggingface/accelerate
+git+https://github.com/huggingface/diffusers
 gradio==3.36.1
 imageio==2.25.0
 imageio-ffmpeg==0.4.8

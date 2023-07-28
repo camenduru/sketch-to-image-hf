@@ -140,7 +140,10 @@ def process_sketch(
 
 demo = gr.Blocks()
 with demo:
-    # gr.Markdown("## UniControl Stable Diffusion with Sketch Maps")
+    gr.Markdown("## Sketch to Image")
+    gr.Markdown(
+        "This demo is based on [UniControl: ONE compact model for ALL the visual-condition-to-image generation](https://huggingface.co/spaces/Robert001/UniControl-Demo)"
+    )
     # input_image = gr.Image(source="upload", type="numpy", tool="sketch")
     with gr.Row():
         input_image = gr.Sketchpad(

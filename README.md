@@ -1,6 +1,6 @@
 ---
 title: Sketch To Image
-emoji: 📈
+emoji: 🎨
 colorFrom: gray
 colorTo: green
 sdk: gradio
