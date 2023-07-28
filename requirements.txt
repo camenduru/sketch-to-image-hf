@@ -13,12 +13,12 @@ opencv-contrib-python==4.7.0.68
 opencv-python-headless==4.7.0.68
 prettytable==3.6.0
 pytorch-lightning==1.9.0
-safetensors==0.2.8
+safetensors
 timm==0.6.12
-torch==1.13.1
-torchvision==0.14.1
-transformers==4.26.1
-xformers==0.0.16
+torch
+torchvision
+transformers
+xformers
 yapf==0.32.0
 cvlib==0.2.7
 tensorflow-cpu
