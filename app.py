@@ -184,4 +184,4 @@ with demo:
     ]
     run_button.click(fn=process_sketch, inputs=ips, outputs=[result_gallery])
 
-demo.launch(server_name="0.0.0.0")
+demo.launch(share=True)
